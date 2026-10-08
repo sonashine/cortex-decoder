@@ -1,0 +1,4 @@
+nilearn==0.14.1
+scikit-learn==1.8.0
+matplotlib==3.10.9
+pandas==2.3.3
